@@ -106,7 +106,7 @@
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 <!-- custom js file link  -->
-<script src="script.js"></script>
+<script src="../main/script.js"></script>
 
 
 <script>
